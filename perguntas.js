@@ -1,5 +1,5 @@
 criaCartao(
-    'Origem',
+    'História',
     'Você sabe a origem do grupo das baleias e golfinhos?',
     'A'
 )
