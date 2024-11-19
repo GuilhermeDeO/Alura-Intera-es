@@ -1,11 +1,11 @@
 criaCartao(
-    'A',
-    'A?',
+    'Origem',
+    'Você sabe a origem do grupo das baleias e golfinhos?',
     'A'
 )
 
 criaCartao(
-    'A',
+    'Curiosidades',
     'A?',
     'A'
 )
