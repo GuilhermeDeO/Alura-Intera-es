@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Baleia 🐋',
+    'Origem',
+    'Os cetáceos se originaram de um grupo de mamíferos terrestres angulatos, ou seja, animais que possuiam cascos, como os cavalos e bovinos. Devido à falta de alimento, estes animais engajaram em um estilo de vida semi aquático, até se adaptarem totalmente para estas zonas'
 )
 
 criaCartao(
