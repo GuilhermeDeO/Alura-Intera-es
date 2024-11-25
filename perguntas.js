@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'A',
+    'Território',
     'A?',
     'A'
 )
