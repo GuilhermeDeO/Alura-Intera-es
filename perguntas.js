@@ -1,7 +1,7 @@
 criaCartao(
     'História',
     'Você sabe a origem do grupo das baleias e golfinhos?',
-    'A'
+    'Se originaram de um grupo de mamíferos que se adaptaram à viver em ambientes aquáticos'
 )
 
 criaCartao(
