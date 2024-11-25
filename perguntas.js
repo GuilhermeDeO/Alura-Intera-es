@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Curiosidades',
-    'A?',
-    'A'
+    'Sabia que possuem similaridade com as vacas?',
+    'Ambas as espécies fazem parte do grupo dos "ungulados", ou seja, animais que possuem cascos, e seu antepassados possuíam essa características'
 )
 
 criaCartao(
