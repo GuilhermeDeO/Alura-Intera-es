@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Território',
-    'A?',
-    'A'
+    'Geografia',
+    'Por onde estas espécies estão espalhadas?',
+    'Praticamente por todo o globo, inclusive nas águas doces das regiões sul, como é o caso dos botos. Algumas espécies realizam migrações anuais, e algumas passam pelos litorais brasileiros'
 )
 
 criaCartao(
